@@ -1,4 +1,4 @@
-package com.thoughtworks;
+package com.thoughtworks.entities;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
